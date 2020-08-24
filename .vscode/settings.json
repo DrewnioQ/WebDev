@@ -1,4 +1,7 @@
 {
-    "editor.tabSize": 2,
-    "editor.fontSize": 26,
+  "editor.tabSize": 2,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renameOnType": true
 }
